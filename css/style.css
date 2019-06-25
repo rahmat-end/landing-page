@@ -123,7 +123,7 @@
 }
 
 .landing-dua {
-    margin-bottom: 119.6px;
+    margin-bottom: 80px;
 }
 
 .landing-dua .opening {
@@ -131,7 +131,7 @@
 }
 
 .landing-dua .opening p {
-    margin-top: 119.7px;
+    margin-top: 60px;
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
     font-weight: bold;
@@ -268,11 +268,11 @@
 }
 
 .landing-empat {
-    margin-bottom: 40px;
+    
 }
 
 .landing-empat p {
-    margin-top: 121.7px;
+    margin-top: 10px;
     font-family: 'Roboto', sans-serif;
     font-size: 12px;
     font-weight: bold;
@@ -309,7 +309,7 @@
 
 .landing-empat .slider-next {
     position: absolute;
-    bottom: 250px;
+    bottom: 205px;
     z-index: 9999;
 }
 
@@ -354,7 +354,7 @@
 
 .landing-empat .title {
     margin-top: 5px;
-    margin-bottom: 120px;
+    margin-bottom: 80px;
     font-family: Roboto;
     font-size: 13px;
     font-weight: normal;
@@ -374,7 +374,7 @@
 }
 
 .landing-enam .row {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .landing-enam video {
@@ -467,7 +467,7 @@
 
 .landing-tujuh {
     background-color: #1b8bf9;
-    height: 280px;
+    height: 240px;
 }
 
 .landing-tujuh h5 {
@@ -627,7 +627,7 @@ footer .footer-sosmed .icon a:hover {
     
     .landing-empat .slider-next {
         position: absolute;
-        bottom: 250px;
+        bottom: 215px;
         z-index: 9999;
     }
 
@@ -689,7 +689,7 @@ footer .footer-sosmed .icon a:hover {
     
     .landing-empat .slider-next {
         position: absolute;
-        bottom: 250px;
+        bottom: 209px;
         z-index: 9999;
     }
 
@@ -751,6 +751,10 @@ footer .footer-sosmed .icon a:hover {
 
     .landing-enam .konten {
         margin-top: 20px;
+    }
+
+    .landing-tujuh {
+        height: 270px;
     }
 
     footer {
@@ -923,6 +927,19 @@ footer .footer-sosmed .icon a:hover {
         padding: 0 50px;
     }
 
+    .landing-empat .title {
+        margin-top: 5px;
+        margin-bottom: 50px;
+        font-family: Roboto;
+        font-size: 13px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.38;
+        letter-spacing: normal;
+        color: #747474;
+    }
+
     .landing-lima {
         background-image: url('../img/image2_2019-05-17/image2.png');
         background-size: cover;
@@ -938,6 +955,11 @@ footer .footer-sosmed .icon a:hover {
 
     .landing-enam .konten {
         margin-top: 15px;
+    }
+
+    .landing-tujuh {
+        background-color: #1b8bf9;
+        height: 280px;
     }
 
     .landing-tujuh p {
