@@ -740,6 +740,95 @@ footer .footer-sosmed .icon a:hover {
 
 }
 
+@media (max-width: 767px) {
+    .landing-empat .slider {
+        
+    }
+
+    .landing-empat .slider-content {
+        
+    }
+
+    .landing-enam .konten {
+        margin-top: 20px;
+    }
+
+    footer {
+        padding: 0;
+        display: inline;
+    }
+
+    footer img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    footer .footer-link {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;   
+    }
+    
+    footer .footer-link a {
+        text-decoration: none;
+        text-align: center;
+        font-family: Roboto;
+        font-size: 14px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.36;
+        letter-spacing: 0.5px;
+        color: #323c47;
+    }
+    
+    footer .footer-link a:hover {
+        text-decoration: none;
+        text-align: center;
+        font-family: Roboto;
+        font-size: 14px;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.36;
+        letter-spacing: 0.5px;
+        color: red;
+    }
+    
+    footer .footer-sosmed {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+    }
+    
+    footer .footer-sosmed .icon a {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 15px;
+        border: 1px solid black;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        text-decoration: none;
+        color: black;
+    }
+    
+    footer .footer-sosmed .icon a:hover {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 5px;
+        border: 1px solid #d3dadf;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        text-decoration: none;
+        color: #d3dadf;
+    }
+}
+
 @media (max-width: 575px) {
     .landing-satu {
         background-image: url('../img/homepage.jpg');
@@ -847,8 +936,8 @@ footer .footer-sosmed .icon a:hover {
         margin-bottom: 50px;
     }
 
-    .landing-enam video {
-        width: 345px;
+    .landing-enam .konten {
+        margin-top: 15px;
     }
 
     .landing-tujuh p {
@@ -1049,76 +1138,3 @@ footer .footer-sosmed .icon a:hover {
         color: red;
     }
 }
-
-
-
-/* .landing-tujuh .tombol {
-    border-radius: 60px;
-    background-color: #ffffff;
-    color: black;
-}
-
-.landing-tujuh input.inputan {
-    opacity: 0.3;
-    border-radius: 4px;
-    background-color:red;
-} */
-
-/* ini latihan */
-/* footer .cr {
-    margin-top: 10px;
-    text-align: center;
-    font-size: 20px;
-    padding: 15px;
-    color: aqua;
-    background-color: #989898;
-    border: 1px solid black;
-}
-
-footer .cr p {
-    margin-bottom: 0;
-}
-
-footer .company-name h5 {
-    font-size: 30px;
-    color: red;
-    text-align: center;
-}
-
-footer .company-name p {
-    font-weight: bold;
-    color: green;
-    text-align: center
-}
-
-footer .company-name img {
-    width: 50px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-footer .company-name {
-    margin-bottom: 30px;
-}
-
-.list-wrapper, .bottom-wrapper {
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
-}
-
-.link-bottom-image, .list {
-    -ms-flex: 0 0 25%;
-    flex: 0 0 25%;
-    max-width: 25%;
-}
-
-.link-bottom-list {
-    -ms-flex: 0 0 75%;
-    flex: 0 0 75%;
-    max-width: 75%;
-} */

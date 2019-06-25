@@ -8,7 +8,7 @@ $(document).ready(function () {
         nextArrow: '<div class="slider-next"><img src="img/Arrow_left_2019-05-17/Arrow_left.png"></div>',
         centerMode: true,
         centerPadding: '60px',
-        slidesToShow: 3,
+        slidesToShow: 1,
         responsive: [
             {
                 breakpoint: 768,
