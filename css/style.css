@@ -741,6 +741,41 @@ footer .footer-sosmed .icon a:hover {
 }
 
 @media (max-width: 767px) {
+    .landing-tiga .konten-satu {
+        margin-top: 40px;
+    }
+    
+    .landing-tiga .konten-dua {
+        margin-top: 20px;
+        margin-bottom: 58.9px;
+    }
+    
+    .landing-tiga .batas-konten {
+        margin-top: 20px;
+    }
+    
+    .landing-tiga img.gambar-satu {
+        width: 100%;
+        height: auto;
+    }
+    
+    .landing-tiga img.gambar-dua {
+        margin-top: 20px;
+        width: 100%;
+        height: auto;
+    }
+    
+    .landing-tiga img.gambar-tiga {
+        width: 100%;
+        height: auto;
+    }
+    
+    .landing-tiga img.gambar-empat {
+        margin-top: 20px;
+        width: 100%;
+        height: auto;
+    }
+
     .landing-empat .slider {
         
     }
