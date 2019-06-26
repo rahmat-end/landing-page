@@ -597,6 +597,12 @@ footer .footer-sosmed .icon a:hover {
     color: #d3dadf;
 }
 
+@media (min-width: 1451px) {
+    .landing-enam .wrapper-konten {
+        margin-top: 50px;
+    }
+}
+
 @media (max-width: 1199px) {
     .landing-tiga img.gambar-satu {
         width: 100%;
